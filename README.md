@@ -6,6 +6,6 @@
 <p align="center"> 
   <div align="center">Visitor count</div>
   <div align="center">
-    <img src="![Profile Views](https://profile-counter.glitch.me/MalcomJesid/count.svg)"/>
+    <img src="(https://profile-counter.glitch.me/MalcomJesid/count.svg)"/>
   </div> 
 </p>
