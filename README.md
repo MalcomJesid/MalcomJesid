@@ -14,7 +14,8 @@
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
- *hola
+==> As a Full-Stack developer, I strive to translate ideas into code effectively. I am willing to face any challenge or obstacle that comes my way. My focus and discipline help me to make good decisions in my work.
+
 </br>
 
 
