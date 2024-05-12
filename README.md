@@ -18,6 +18,18 @@ As a Full-Stack developer, I strive to translate ideas into code effectively. I 
 
 </br>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,py,django,docker,mysql" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react" />
+  </a>
+</p>
+
+</br>
 
 <p align="center" style="height: 180px;">
     <img style="height:10rem" src="https://github-readme-stats.vercel.app/api?username=MalcomJesid&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&theme=radical" />
