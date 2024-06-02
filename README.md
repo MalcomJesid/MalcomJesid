@@ -20,7 +20,7 @@ As a Full-Stack developer, I strive to translate ideas into code effectively. I 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,py,django,docker,mysql" />
+    <img src="https://skillicons.dev/icons?i=git,py,django,docker,mysql, java" />
   </a>
 </p>
 <p align="center">
