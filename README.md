@@ -20,7 +20,7 @@ As a Full-Stack developer, I strive to translate ideas into code effectively. I 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,nodejs,expressjs ,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=git,docker,nodejs,expressjs" />
   </a>
 </p>
 <p align="center">
@@ -30,7 +30,7 @@ As a Full-Stack developer, I strive to translate ideas into code effectively. I 
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=myslq,mongodb" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
   </a>
 </p>
 
