@@ -28,6 +28,11 @@ As a Full-Stack developer, I strive to translate ideas into code effectively. I 
     <img src="https://skillicons.dev/icons?i=js,html,css,react,nestjs" />
   </a>
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=myslq,mongodb" />
+  </a>
+</p>
 
 </br>
 
