@@ -20,12 +20,12 @@ As a Full-Stack developer, I strive to translate ideas into code effectively. I 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,ts,nodejs,expressjs" />
+    <img src="https://skillicons.dev/icons?i=docker,java,springboot" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nestjs" />
+    <img src="https://skillicons.dev/icons?i=js,html,css" />
   </a>
 </p>
 <p align="center">
