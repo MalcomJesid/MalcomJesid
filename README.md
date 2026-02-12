@@ -13,7 +13,7 @@
 ##  **About me**
 
 
-<picture> <img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width = 80px></picture>
+<picture> <img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width = 70px></picture>
 
 As a Full-Stack developer, I strive to translate ideas into code effectively. I am willing to face any challenge or obstacle that comes my way. My focus and discipline help me to make good decisions in my work.
 
