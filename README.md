@@ -12,7 +12,8 @@
 
 ##  **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+<picture> <img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width = 80px></picture>
 
 As a Full-Stack developer, I strive to translate ideas into code effectively. I am willing to face any challenge or obstacle that comes my way. My focus and discipline help me to make good decisions in my work.
 
@@ -37,7 +38,6 @@ As a Full-Stack developer, I strive to translate ideas into code effectively. I 
 </br>
 
 <p align="center" style="height: 180px;">
-    <img style="height:10rem" src="https://github-readme-stats.vercel.app/api?username=MalcomJesid&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&theme=radical" />
     <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=MalcomJesid&theme=radical&show_icons=true&border=e4e2e2" />
 </p>
 
@@ -49,10 +49,4 @@ As a Full-Stack developer, I strive to translate ideas into code effectively. I 
     </picture>
 </div>
 
-<p align="center">
-  <div align="center">Visitor count</div>
-  <div align="center">
-    <img src="https://profile-counter.glitch.me/MalcomJesid/count.svg"/>
-  </div>
-</p>
 
