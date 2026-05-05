@@ -26,7 +26,7 @@ As a Full-Stack developer, I strive to translate ideas into code effectively. I 
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css" />
+    <img src="https://skillicons.dev/icons?i=pos" />
   </a>
 </p>
 <p align="center">
